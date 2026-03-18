@@ -187,15 +187,7 @@ ios/Runner/GoogleService-Info.plist      ← Firebase iOS config
 
 ---
 
-## 🎓 Academic Context
 
-> **Graduation Project** — Sadat Academy for Management and Sciences, Faculty of Management Sciences, Major: BIS
->
-> **Supervisor:** Dr. Lamia Al Adel
->
-> **Team:** Takei Ahmed Suleiman · Mohamed Hassan Mohamed Ali · Adham Ahmed Hassan El Sayed
-
----
 
 ## 🔮 Future Roadmap
 
