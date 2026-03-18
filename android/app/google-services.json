@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "56725496828",
+    "project_id": "online-hospital-b4584",
+    "storage_bucket": "online-hospital-b4584.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56725496828:android:c8c2e5f6e94bcb0c354879",
+        "android_client_info": {
+          "package_name": "com.example.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56725496828-7a9vpunha2mrnccbhlc27com4b486koq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.online",
+            "certificate_hash": "0c6ea3959186936f4a5213ffc3687b17403fa033"
+          }
+        },
+        {
+          "client_id": "56725496828-lhatkqst3mpmgnvpau4a2i5g6tsa03q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF-ItETAmYdbeLj2UwfD1pvkQzT87q-IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56725496828-lhatkqst3mpmgnvpau4a2i5g6tsa03q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
